@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Как создать сайт с нуля - "Нубекс"</title>
+  
  </head>
  <body>
   <h1>Мой первый сайт в блокноте HTML</h1>
