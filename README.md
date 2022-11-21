@@ -1,3 +1,19 @@
+body {
+background: #F2F2F2;
+max-width: 900px;
+margin: 10px auto;
+padding: 30px;
+}
+ 
+h1{
+color: #4C4C4C;
+padding-bottom: 20px;
+margin-bottom: 20px;
+border-bottom: 2px solid #BEBEBE;
+}
+p{
+font:italic;
+}
 <!DOCTYPE html PUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
